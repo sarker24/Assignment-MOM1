@@ -1,0 +1,6 @@
+E:\Vs project\Test1\MOMBank\MOMBank\bin\Debug\MOMBank.exe.config
+E:\Vs project\Test1\MOMBank\MOMBank\bin\Debug\MOMBank.exe
+E:\Vs project\Test1\MOMBank\MOMBank\bin\Debug\MOMBank.pdb
+E:\Vs project\Test1\MOMBank\MOMBank\obj\Debug\MOMBank.csprojResolveAssemblyReference.cache
+E:\Vs project\Test1\MOMBank\MOMBank\obj\Debug\MOMBank.exe
+E:\Vs project\Test1\MOMBank\MOMBank\obj\Debug\MOMBank.pdb
